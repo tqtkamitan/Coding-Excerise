@@ -1,0 +1,16 @@
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.csproj.AssemblyReference.cache
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.AssemblyInfoInputs.cache
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.AssemblyInfo.cs
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.csproj.CoreCompileInputs.cache
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.exe
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.deps.json
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.runtimeconfig.json
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.runtimeconfig.dev.json
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.dll
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\bin\Debug\net5.0\OrientTest.pdb
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.dll
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\refint\OrientTest.dll
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.pdb
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\OrientTest.genruntimeconfig.cache
+C:\quangtanwork\Personal\personal work\OrientTest\OrientTest\obj\Debug\net5.0\ref\OrientTest.dll
